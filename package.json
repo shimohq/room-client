@@ -1,0 +1,28 @@
+{
+  "name": "room-client",
+  "version": "1.0.0",
+  "description": "room & client class stored with redis/memory",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shimohq/room-client.git"
+  },
+  "keywords": [
+    "room",
+    "clients"
+  ],
+  "author": "wanming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shimohq/room-client/issues"
+  },
+  "homepage": "https://github.com/shimohq/room-client#readme",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "chai": "^3.5.0",
+    "lodash": "^4.15.0"
+  }
+}
